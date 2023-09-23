@@ -48,7 +48,6 @@ h1 {
 /* about me */
 .about {
     text-align: center;
-
     margin: 8%;
     padding: 8%;
     background-color: #FFF8F3;
@@ -62,4 +61,26 @@ h1 {
 
 .single-info {
     margin: 0 20px;
+}
+
+/* what i do */
+.what-i-do {
+    text-align: center;
+    background-color: #ece3e3a1;
+    margin: 8%;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.work-to-do {
+    display: flex;
+
+}
+
+.what-i-do div {
+
+    border: 5px solid white;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
 }
