@@ -1,0 +1,46 @@
+body {
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    color: #757575;
+}
+
+/* top part */
+.heading {
+    background-image: linear-gradient(rgba(97, 114, 85, 0.486), rgba(214, 214, 193, 0.664));
+}
+
+.dark-color {
+    color: black;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+p {
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+.link-btn {
+    background-color: #FD6E0A;
+    padding: 5% 15%;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+
+}
+
+.top-banner {
+    display: flex;
+    margin: 0 250px;
+
+}
