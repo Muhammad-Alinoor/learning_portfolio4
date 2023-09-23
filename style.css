@@ -24,7 +24,7 @@ h1 {
     font-size: 60px;
 }
 
-p {
+.margin-included {
     font-size: 25px;
     margin-bottom: 40px;
 }
@@ -43,4 +43,23 @@ p {
     display: flex;
     margin: 0 250px;
 
+}
+
+/* about me */
+.about {
+    text-align: center;
+
+    margin: 8%;
+    padding: 8%;
+    background-color: #FFF8F3;
+}
+
+
+.profile {
+    display: flex;
+    justify-content: center;
+}
+
+.single-info {
+    margin: 0 20px;
 }
