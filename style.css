@@ -88,3 +88,8 @@ h1 {
 .item {
     display: float;
 }
+
+.link-btn:hover {
+    background-image: linear-gradient(to left, gray, purple);
+    color: white;
+}
